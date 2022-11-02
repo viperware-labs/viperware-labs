@@ -1,6 +1,6 @@
 Smart Contract Development + Web3 Development
 
-[Twitter](https://viperware.xyz](https://twitter.com/ViperwareLabs)
+[Twitter](https://twitter.com/ViperwareLabs)
 
 [Website](https://viperware.xyz)
 
